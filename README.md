@@ -74,14 +74,13 @@ Das Projekt verfolgt einen **Design-Science-Ansatz**:
 ## 4. Teilprojekte  
 
 ### 4.1 Dotcloud – Punktwolken als Amplitudenlandschaften  
+**Ziel:**  
 Visualisierung von Amplitudenverläufen als 3D-Punktwolken zur Erfassung zeitlicher Synchronität und Asynchronität.  
 
 <video width="640" height="360" controls>
   <source src="./media/videos/DotCloud/480p15/DotCloud.mp4" type="video/mp4">
   Dein Browser unterstützt dieses Video-Format nicht.
 </video>
-**Ziel:**  
-
 
 **Designprinzip:**  
 - Verwendung von Punktwolken zur Darstellung zeitlicher Wellenmuster.  
@@ -113,8 +112,10 @@ Die Helix kann als „Marktpuls“ gelesen werden – sie zeigt implizite Vertra
 ---
 
 ### 4.3 Stock Trustbreath – Die organische Atmung des Marktes  
+
 **Ziel:**  
 Visualisierung zyklischer Marktbewegungen als „Atmung“ in einer dynamischen Netzstruktur.  
+
 <video width="640" height="360" controls>
   <source src="./media/videos/StockTrustBreath/1080p60/StockTrustBreath.mp4" type="video/mp4">
   Dein Browser unterstützt dieses Video-Format nicht.
@@ -161,3 +162,4 @@ Die erarbeiteten Visualisierungsformen sollen auf andere komplexe Systeme übert
 **Projektstatus:** Explorativ, laufende Prototypentwicklung  
 **Technologien:** Python, Pandas, Manim, API-Datenquellen  
 **Zeithorizont:** Iterative Entwicklung in mehreren Prototypzyklen  
+
